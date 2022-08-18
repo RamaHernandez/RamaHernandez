@@ -79,6 +79,8 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 </a>  
 </p>
 
+<h1>rhernandez201203@gmail.com</h1>
+
 <!--
 **txakurhub/txakurhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
