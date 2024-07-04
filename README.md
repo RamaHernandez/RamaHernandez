@@ -72,12 +72,6 @@ Flexible, reliable, with an assertive communication style and willing to meet ch
 
 
 ## Contact with me:  
-<p>
- <br/>  
-<a href="https://linkedin.com/in/ramanandez" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</p>
 
 <h1>rhernandez201203@gmail.com</h1>
 
